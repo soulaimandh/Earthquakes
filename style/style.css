@@ -1,0 +1,15 @@
+
+h1 {
+    margin: 40px;
+    text-align: center;
+}
+
+.map {
+    margin: 0 auto;
+    height: 80vh;
+    width: 80%;
+}
+
+.leaflet-control-attribution {
+    display: none;
+}
